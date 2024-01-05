@@ -5,4 +5,4 @@ Now that the readme and github are initialized I'll probably start watching some
 Deploying website:
 Github pages sources from the gh-pages branch (currently only uses the index.html file). Unsure how it all works but any changes to the gh-pages branch should be automatically built when pushed. Planning on protecting the branch..
 
-This is a test to see if I can push to this branch
+This is a second test
